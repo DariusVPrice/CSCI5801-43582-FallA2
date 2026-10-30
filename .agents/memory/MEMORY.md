@@ -1,0 +1,1 @@
+- [VNC verification](vnc-verification.md) — verify the actual desktop and browser connection separately; a running GUI workflow can target the wrong X display.
