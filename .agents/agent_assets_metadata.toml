@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "wF9xPjtqffcKDCf6B2o4L"
+uri = "file://screenshots/main-py-output.png"
+type = "image"
+title = "main.py output screen"
+description = "Captured during VNC troubleshooting. Your main.py output is the black window with “test” in the upper-left corner; the blue area is the older test window behind it."
+logical_id = "6a34ec5b-55e6-4444-a4a8-fe85e789ab21"
+content_hash = "sha256:2f83ea42a3940439ef85b343580a4b56db57791f48b0cd0f3a899b8b935fd9c7"
+size = 6999
+mtime_ms = 1793388088922
+storage_uri = "gcs://replit-rams-assets-worf/rams/assets/repl:b36ea708-a087-4eb4-ad80-87f2c84eb336/6a34ec5b-55e6-4444-a4a8-fe85e789ab21/be593bc7-4361-4e88-9db0-83e8cf5cb7e5"
+storage_version_token = "1793388093340311"
+content_type = "image/png"
