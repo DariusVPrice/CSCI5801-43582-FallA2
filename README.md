@@ -14,5 +14,5 @@ Full Project Plan Doc: https://ysuprod-my.sharepoint.com/:w:/r/personal/speterso
 
 ----------------------------------------------------------
 Built-in VNC Display:
-Replit at this time appears unable to properly connect the vnc. we can run py code and display console output but not VNC pane. possible work arround include a browser viewer.
+Replit at this time appears unable to properly connect the vnc. we can run py code and display console output but not VNC pane. Possible work around include a browser viewer.
 Tried to use replit ai agent to enable and troubleshoot VNC display, could not resolve. May not be able to use vnc inside this workspace. The issue appears to be related to the replit workspace or vnc configurations as test show proper connections - dp
